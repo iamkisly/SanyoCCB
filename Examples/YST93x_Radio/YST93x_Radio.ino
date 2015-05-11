@@ -56,8 +56,8 @@ Note:   This example uses an analog keypad with the following schematics:
 
                  A0
                  |
-          2k2    |   330R        620R         1k          3k3        
-VCC -----\/\/\---+---\/\/\---+---\/\/\---+---\/\/\---+---\/\/\-----+----- GND
+          2k2    |   330R        620R         1k          3k3
+VCC -----\/\/\---+---\/\/\---+---\/\/\---+---\/\/\---+---\/\/\-----+
                  |           |           |           |             |
                  X SCAN_UP   X UP        X DOWN      X SCAN_DOWN   X BAND
                  |           |           |           |             |
